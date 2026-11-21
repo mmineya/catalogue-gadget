@@ -1,3 +1,5 @@
+[![Catalogue Photo of an Impossible Gadget](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
+
 # The Straightener 3000
 
 A catalogue photograph of an impossible gadget: a machine that straightens bananas. The program writes `/output/entry.png` (1024x1024) with pure Python + Pillow.
